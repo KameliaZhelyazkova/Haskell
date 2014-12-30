@@ -1,0 +1,3 @@
+ghci -Wall tutorial5.hs
+
+ghci -fwarn-incomplete-patterns tutorial5.hs
