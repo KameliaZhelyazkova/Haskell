@@ -1,4 +1,4 @@
 Haskell
 =======
 
-All kinds of Haskell programs. Mainly used for my Functional Programing course at The University of Edinburgh
+Haskell programming tutorial solutions I developed while being enrolled in the Functional Programing course at The University of Edinburgh.
